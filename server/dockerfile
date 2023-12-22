@@ -1,0 +1,20 @@
+# Use an official Node.js runtime as a base image
+FROM node:14
+
+# Set the working directory in the container
+WORKDIR /usr/src/app
+
+# Install app dependencies
+COPY server/package*.json ./
+RUN npm install
+# If you are building your code for production
+# RUN npm ci --only=production
+
+# Bundle app source inside the Docker image
+COPY server/ ./
+
+# Make port 3000 available outside this container
+EXPOSE 3000
+
+# Define the command to run your app using CMD which defines your runtime
+CMD ["npm", "start"]

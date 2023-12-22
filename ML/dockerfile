@@ -1,0 +1,29 @@
+# Use an official CUDA base image from NVIDIA
+FROM nvidia/cuda:11.3.1-cudnn8-runtime-ubuntu20.04
+
+# Install Python 3.11
+RUN apt-get update && apt-get install -y software-properties-common && \
+    add-apt-repository ppa:deadsnakes/ppa && \
+    apt-get update && apt-get install -y python3.11 python3.11-distutils
+
+# Upgrade pip to the latest version
+RUN apt-get install -y python3-pip && python3.11 -m pip install --upgrade pip
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Install any needed packages specified in requirements.txt
+COPY source/requirements.txt .
+RUN python3.11 -m pip install --no-cache-dir -r requirements.txt
+
+# Copy the current directory contents into the container at /app
+COPY source/ .
+
+# Make port 8000 available to the world outside this container
+EXPOSE 8000
+
+# Define environment variable
+ENV MODEL_DIR=/app/models
+
+# Run fast-api.py when the container launches
+CMD ["python3.11", "fast-api.py"]

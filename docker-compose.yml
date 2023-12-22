@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  ml-api:
+    build:
+      context: ./ML
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Files:/app/Files
+
+  node-server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./Files:/usr/src/app/Files

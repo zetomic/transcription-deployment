@@ -1,0 +1,472 @@
+2023-12-22 03:40:00 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 03:40:41 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:40:41 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 03:41:53 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:41:56 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:41:56 [32minfo[39m: Signature verified
+2023-12-22 03:42:10 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:42:10 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 03:43:04 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 03:43:21 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:43:23 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:43:23 [32minfo[39m: Signature verified
+2023-12-22 03:43:32 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:43:32 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 03:43:45 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 03:48:45 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 03:48:58 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:49:00 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:49:00 [32minfo[39m: Signature verified
+2023-12-22 03:49:14 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:49:14 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 03:50:53 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:50:55 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:50:55 [32minfo[39m: Signature verified
+2023-12-22 03:51:17 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:51:20 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:51:20 [32minfo[39m: Signature verified
+2023-12-22 03:53:54 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:53:54 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 03:57:53 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 03:58:55 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:58:57 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 03:58:58 [32minfo[39m: Signature verified
+2023-12-22 04:01:26 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:01:28 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:01:28 [32minfo[39m: Signature verified
+2023-12-22 04:07:46 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:09:01 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:09:01 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:09:01 [32minfo[39m: File name: d23c1716-4629-49a8-a7b5-0214063dad9a.m4a
+2023-12-22 04:09:20 [32minfo[39m: No virus detected
+2023-12-22 04:09:20 [31merror[39m: uncaughtException: Cannot destructure property 'walletAddress' of 'req.Wallet' as it is undefined.
+TypeError: Cannot destructure property 'walletAddress' of 'req.Wallet' as it is undefined.
+    at processFile (file:///C:/Users/khiza/OneDrive/Desktop/VoxaLink_final_repo/server/source/controllers/fileController.js:21:11)
+    at Layer.handle [as handle_request] (C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\server\node_modules\express\lib\router\route.js:144:13)
+    at virusScan (file:///C:/Users/khiza/OneDrive/Desktop/VoxaLink_final_repo/server/source/middlewares/virusScanMiddleware.js:61:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-22 04:11:21 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:11:32 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:11:32 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:11:32 [32minfo[39m: File name: cf1e51eb-b07e-47c0-9c72-d9856a39fe48.m4a
+2023-12-22 04:11:51 [32minfo[39m: No virus detected
+2023-12-22 04:11:51 [31merror[39m: 
+2023-12-22 04:12:37 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:12:48 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:12:59 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:12:59 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:12:59 [32minfo[39m: File name: bc1a40ac-1b32-4aa5-b387-2ef9d5cae10f.mp3
+2023-12-22 04:13:17 [32minfo[39m: No virus detected
+2023-12-22 04:13:17 [31merror[39m: 
+2023-12-22 04:15:00 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:15:18 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:15:31 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:15:31 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:15:31 [32minfo[39m: File name: 161255b0-29a6-4015-b136-5bbb1d88bc7a.m4a
+2023-12-22 04:15:50 [32minfo[39m: No virus detected
+2023-12-22 04:15:50 [32minfo[39m: processing file1!!
+2023-12-22 04:16:22 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:16:22 [31merror[39m: Error processing file: File ..\..\Files\outputs\161255b0-29a6-4015-b136-5bbb1d88bc7a.txt.undefined not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:17:14 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:17:34 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:17:34 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:17:34 [32minfo[39m: File name: 5fa2a854-fc58-4fc0-bf93-0a0cbb243fba.mp3
+2023-12-22 04:17:54 [32minfo[39m: No virus detected
+2023-12-22 04:17:54 [32minfo[39m: processing file1!!
+2023-12-22 04:18:08 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:18:57 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:19:30 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:19:35 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:19:35 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:19:35 [32minfo[39m: File name: 77eed39a-f530-4237-9084-df0359e23a94.m4a
+2023-12-22 04:19:54 [32minfo[39m: No virus detected
+2023-12-22 04:19:54 [32minfo[39m: processing file1!!
+2023-12-22 04:20:05 [32minfo[39m: ..\..\Files\outputs\77eed39a-f530-4237-9084-df0359e23a94.txt
+2023-12-22 04:20:05 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:23:58 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:24:09 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:24:14 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:24:23 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:24:23 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:24:23 [32minfo[39m: File name: 18102975-6f58-4eee-94a1-03af6ecd522a.m4a
+2023-12-22 04:24:42 [32minfo[39m: No virus detected
+2023-12-22 04:24:42 [32minfo[39m: processing file1!!
+2023-12-22 04:25:00 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:25:00 [31merror[39m: Error processing file: File 18102975-6f58-4eee-94a1-03af6ecd522a.m4a.undefined not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:28:04 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:28:15 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:28:15 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:28:15 [32minfo[39m: File name: f901238d-e0fa-453c-bd37-9019f8e4711e.mp3
+2023-12-22 04:28:34 [32minfo[39m: No virus detected
+2023-12-22 04:28:34 [32minfo[39m: processing file1!!
+2023-12-22 04:28:48 [32minfo[39m: fileName is f901238d-e0fa-453c-bd37-9019f8e4711e.mp3
+2023-12-22 04:28:48 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:28:48 [31merror[39m: Error processing file: File f901238d-e0fa-453c-bd37-9019f8e4711e.mp3.undefined not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:30:36 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:30:45 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:31:14 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:31:20 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:31:20 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:31:20 [32minfo[39m: File name: 25266da7-11b4-44f0-a63b-db5347560234.m4a
+2023-12-22 04:31:38 [32minfo[39m: No virus detected
+2023-12-22 04:31:38 [32minfo[39m: processing file1!!
+2023-12-22 04:31:49 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:31:49 [31merror[39m: Error processing file: File 25266da7-11b4-44f0-a63b-db5347560234.m4a.txt not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:32:06 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:32:23 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:32:23 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:32:23 [32minfo[39m: File name: b59d6888-c60b-4d72-83a0-23351afc5ba2.mp3
+2023-12-22 04:32:41 [32minfo[39m: No virus detected
+2023-12-22 04:32:41 [32minfo[39m: processing file1!!
+2023-12-22 04:32:55 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:32:56 [32minfo[39m: File uploaded successfully:
+2023-12-22 04:34:24 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:34:27 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:34:27 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:34:27 [32minfo[39m: File name: 9bb8c7d9-927d-4e75-a06c-c8f3b74291e5.mp3
+2023-12-22 04:34:50 [32minfo[39m: No virus detected
+2023-12-22 04:34:50 [32minfo[39m: processing file1!!
+2023-12-22 04:35:09 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:35:10 [32minfo[39m: File uploaded successfully:
+2023-12-22 04:36:01 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:36:43 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:36:43 [32minfo[39m: FILE UPLOADED
+2023-12-22 04:36:43 [32minfo[39m: File name: 3def136c-862e-478b-9603-49622525228e.mp3
+2023-12-22 04:37:01 [32minfo[39m: No virus detected
+2023-12-22 04:37:01 [32minfo[39m: processing file1!!
+2023-12-22 04:37:15 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:37:16 [32minfo[39m: File uploaded successfully:
+2023-12-22 04:37:16 [32minfo[39m: Download link: http://localhost:4000/download?file=3def136c-862e-478b-9603-49622525228e&format=txt
+2023-12-22 04:37:26 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:38:19 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 04:38:34 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 04:38:35 [32minfo[39m: File downloaded successfully:
+2023-12-22 15:34:55 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 15:35:44 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:35:46 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:35:46 [32minfo[39m: Signature verified
+2023-12-22 15:36:20 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:36:20 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 15:36:55 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:36:57 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:36:57 [32minfo[39m: Signature verified
+2023-12-22 15:37:03 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:37:03 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 15:45:54 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:53:55 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:54:53 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:54:54 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:54:54 [32minfo[39m: Signature verified
+2023-12-22 15:55:01 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:55:14 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 15:55:14 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 15:56:52 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:01:48 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:01:51 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:01:51 [32minfo[39m: Signature verified
+2023-12-22 16:04:06 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:06:22 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:07:34 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:08:44 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:09:01 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:09:18 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:09:20 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:09:20 [32minfo[39m: Signature verified
+2023-12-22 16:09:50 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:09:50 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 16:13:26 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:14:21 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:15:24 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:15:26 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:15:26 [32minfo[39m: Signature verified
+2023-12-22 16:15:45 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:15:52 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:15:52 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:16:17 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:16:19 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:16:19 [32minfo[39m: Signature verified
+2023-12-22 16:16:50 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:16:51 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:16:51 [32minfo[39m: Signature verified
+2023-12-22 16:18:32 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:18:55 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:18:57 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:18:57 [32minfo[39m: Signature verified
+2023-12-22 16:19:43 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:19:49 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:20:20 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:20:37 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:20:39 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:20:39 [32minfo[39m: Signature verified
+2023-12-22 16:20:56 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:20:56 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:20:56 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244056881"
+2023-12-22 16:21:46 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:21:50 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:21:50 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:21:50 [32minfo[39m: hello world usage fetch checker
+2023-12-22 16:21:50 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244110847"
+2023-12-22 16:29:26 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:29:59 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:30:01 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:30:01 [32minfo[39m: Signature verified
+2023-12-22 16:30:09 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:30:09 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:30:09 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244609935"
+2023-12-22 16:31:00 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:31:05 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:31:05 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:31:05 [32minfo[39m: 1703197860724
+2023-12-22 16:31:05 [32minfo[39m: Fri Dec 22 2023 16:31:05 GMT+0500 (Pakistan Standard Time)
+2023-12-22 16:31:05 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244665587"
+2023-12-22 16:32:09 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:33:03 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:33:15 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:33:17 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:33:17 [32minfo[39m: Signature verified
+2023-12-22 16:33:21 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:33:21 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:33:21 [32minfo[39m: 1703197860724
+2023-12-22 16:33:21 [32minfo[39m: 1703244801588
+2023-12-22 16:33:21 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244801589"
+2023-12-22 16:36:16 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:36:20 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:36:20 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:36:21 [32minfo[39m: 1703197860724
+2023-12-22 16:36:21 [32minfo[39m: 1703244981019
+2023-12-22 16:37:02 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:37:02 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:37:02 [32minfo[39m: 1703244981020
+2023-12-22 16:37:02 [32minfo[39m: 1703245022795
+2023-12-22 16:39:08 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:39:17 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:39:18 [32minfo[39m: Authorization middleware: New access token generated successfully
+2023-12-22 16:39:18 [32minfo[39m: 1703245022797
+2023-12-22 16:39:18 [32minfo[39m: 1703245158078
+2023-12-22 16:39:18 [32minfo[39m: Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has exceeded usage count
+2023-12-22 16:40:45 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:40:45 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:40:45 [32minfo[39m: 1703245022797
+2023-12-22 16:40:45 [32minfo[39m: 1703245245890
+2023-12-22 16:41:15 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 16:41:15 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:41:15 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:41:16 [32minfo[39m: 1703245245893
+2023-12-22 16:41:16 [32minfo[39m: 1703245276043
+2023-12-22 16:41:16 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 16:42:37 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 16:42:37 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 16:42:37 [32minfo[39m: 1703245276044
+2023-12-22 16:42:37 [32minfo[39m: 1703245357625
+2023-12-22 16:42:37 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 17:14:52 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:14:52 [32minfo[39m: Authorization middleware: New access token generated successfully
+2023-12-22 17:14:52 [32minfo[39m: 1703245357628
+2023-12-22 17:14:52 [32minfo[39m: 1703247292535
+2023-12-22 17:14:52 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 17:18:15 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 17:26:17 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:26:18 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:26:19 [32minfo[39m: Signature verified
+2023-12-22 17:26:45 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:26:45 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 17:26:45 [32minfo[39m: 1703247292537
+2023-12-22 17:26:45 [32minfo[39m: 1703248005784
+2023-12-22 17:26:45 [32minfo[39m: Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has exceeded usage count
+2023-12-22 17:27:32 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:27:32 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 17:27:32 [32minfo[39m: 1703247292537
+2023-12-22 17:27:32 [32minfo[39m: 1703248052216
+2023-12-22 17:27:32 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 17:29:29 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:29:29 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 17:30:22 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 17:30:29 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:30:29 [32minfo[39m: FILE UPLOADED
+2023-12-22 17:30:29 [32minfo[39m: File name: f4862739-8ec6-46fa-941a-28aaf8ec4d8d.m4a
+2023-12-22 17:30:48 [32minfo[39m: No virus detected
+2023-12-22 17:30:48 [31merror[39m: uncaughtException: Cannot destructure property 'walletAddress' of 'req.Wallet' as it is undefined.
+TypeError: Cannot destructure property 'walletAddress' of 'req.Wallet' as it is undefined.
+    at processFile (file:///C:/Users/khiza/OneDrive/Desktop/VoxaLink_final_repo/server/source/controllers/fileController.js:21:11)
+    at Layer.handle [as handle_request] (C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\server\node_modules\express\lib\router\route.js:144:13)
+    at virusScan (file:///C:/Users/khiza/OneDrive/Desktop/VoxaLink_final_repo/server/source/middlewares/virusScanMiddleware.js:61:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-22 17:31:06 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 17:31:12 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 17:31:32 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:31:32 [32minfo[39m: Authorization middleware: New access token generated successfully
+2023-12-22 17:31:32 [32minfo[39m: 1703248052217
+2023-12-22 17:31:32 [32minfo[39m: 1703248292378
+2023-12-22 17:31:32 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 17:31:32 [32minfo[39m: FILE UPLOADED
+2023-12-22 17:31:32 [32minfo[39m: File name: 499ff0fc-cf9d-4188-b6e8-533289dd9c31.m4a
+2023-12-22 17:31:51 [32minfo[39m: No virus detected
+2023-12-22 17:31:51 [32minfo[39m: processing file1!!
+2023-12-22 17:32:21 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 17:32:21 [32minfo[39m: File uploaded successfully:
+2023-12-22 17:32:21 [32minfo[39m: Download link: http://localhost:4000/services/transcription/download?file=499ff0fc-cf9d-4188-b6e8-533289dd9c31&format=txt
+2023-12-22 17:32:50 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:32:51 [32minfo[39m: File downloaded successfully:
+2023-12-22 17:40:23 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 17:42:45 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 17:42:51 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:42:51 [32minfo[39m: Authorization middleware: New access token generated successfully
+2023-12-22 17:42:51 [32minfo[39m: 1703248292382
+2023-12-22 17:42:51 [32minfo[39m: 1703248971209
+2023-12-22 17:42:51 [32minfo[39m: Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has exceeded usage count
+2023-12-22 17:43:24 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:43:24 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 17:43:24 [32minfo[39m: 1703248292382
+2023-12-22 17:43:24 [32minfo[39m: 1703249004113
+2023-12-22 17:43:24 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 17:43:24 [32minfo[39m: FILE UPLOADED
+2023-12-22 17:43:24 [32minfo[39m: File name: 44f23bc4-3c94-486d-b0f1-826f5e25a5b7.m4a
+2023-12-22 17:43:42 [32minfo[39m: No virus detected
+2023-12-22 17:43:42 [32minfo[39m: processing file1!!
+2023-12-22 17:43:55 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 17:43:56 [32minfo[39m: File uploaded successfully:
+2023-12-22 17:43:56 [32minfo[39m: Download link: http://localhost:4000/services/transcription/download?file=44f23bc4-3c94-486d-b0f1-826f5e25a5b7&format=txt
+2023-12-22 17:44:00 [31merror[39m: Error sending email: Error: Invalid login: 535 5.7.8 Error: authentication failed: 
+2023-12-22 17:53:09 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 17:55:11 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:55:11 [32minfo[39m: Authorization middleware: New access token generated successfully
+2023-12-22 17:55:11 [32minfo[39m: 1703249004114
+2023-12-22 17:55:11 [32minfo[39m: 1703249711575
+2023-12-22 17:55:11 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 17:55:11 [32minfo[39m: FILE UPLOADED
+2023-12-22 17:55:11 [32minfo[39m: File name: e8f72b8d-39fb-4f2d-8ae6-bd2e6de0e599.m4a
+2023-12-22 17:55:30 [32minfo[39m: No virus detected
+2023-12-22 17:55:30 [32minfo[39m: processing file1!!
+2023-12-22 17:55:47 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 17:55:48 [32minfo[39m: File uploaded successfully:
+2023-12-22 17:55:48 [32minfo[39m: Download link: http://localhost:4000/services/transcription/download?file=e8f72b8d-39fb-4f2d-8ae6-bd2e6de0e599&format=txt
+2023-12-22 17:55:50 [32minfo[39m: Email sent to khizarcs123@gmail.com
+2023-12-22 17:55:53 [32minfo[39m: Email appended to "Sent" folder.
+2023-12-22 17:57:06 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 17:57:06 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 17:57:06 [32minfo[39m: 1703249711576
+2023-12-22 17:57:06 [32minfo[39m: 1703249826528
+2023-12-22 17:57:06 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 17:57:06 [32minfo[39m: FILE UPLOADED
+2023-12-22 17:57:06 [32minfo[39m: File name: 73279efb-1490-4178-ba23-03980789ccfc.m4a
+2023-12-22 17:57:24 [32minfo[39m: No virus detected
+2023-12-22 17:57:24 [32minfo[39m: processing file1!!
+2023-12-22 17:57:37 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 17:57:38 [32minfo[39m: File uploaded successfully:
+2023-12-22 17:57:38 [32minfo[39m: Download link: http://localhost:4000/services/transcription/download?file=73279efb-1490-4178-ba23-03980789ccfc&format=pdf
+2023-12-22 17:57:40 [32minfo[39m: Email sent to khizarcs123@gmail.com
+2023-12-22 17:57:42 [32minfo[39m: Email appended to "Sent" folder.
+2023-12-22 18:10:10 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 18:11:02 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:11:02 [32minfo[39m: Authorization middleware: New access token generated successfully
+2023-12-22 18:11:02 [32minfo[39m: 1703249826530
+2023-12-22 18:11:02 [32minfo[39m: 1703250662610
+2023-12-22 18:11:02 [32minfo[39m: Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has exceeded usage count
+2023-12-22 18:11:45 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 18:12:03 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:12:03 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 18:12:03 [32minfo[39m: 1703249826530
+2023-12-22 18:12:03 [32minfo[39m: 1703250723213
+2023-12-22 18:12:03 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 18:12:03 [32minfo[39m: FILE UPLOADED
+2023-12-22 18:12:03 [32minfo[39m: File name: a4c57582-d9bb-4dbd-9dfc-02c826385ab5.m4a
+2023-12-22 18:12:22 [32minfo[39m: No virus detected
+2023-12-22 18:12:22 [32minfo[39m: processing file1!!
+2023-12-22 18:12:38 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 18:12:39 [32minfo[39m: File uploaded successfully:
+2023-12-22 18:12:39 [32minfo[39m: Download link: http://localhost:4000/services/transcription/download?file=a4c57582-d9bb-4dbd-9dfc-02c826385ab5&format=pdf
+2023-12-22 18:12:41 [32minfo[39m: Email sent to khizarcs123@gmail.com
+2023-12-22 18:12:43 [32minfo[39m: Email appended to "Sent" folder.
+2023-12-22 18:30:05 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:30:05 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:32:41 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:32:43 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:32:43 [32minfo[39m: Signature verified
+2023-12-22 18:34:24 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:34:25 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:34:25 [32minfo[39m: Signature verified
+2023-12-22 18:50:23 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:50:25 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 18:50:25 [32minfo[39m: Signature verified
+2023-12-22 19:00:52 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:00:54 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:00:54 [32minfo[39m: Signature verified
+2023-12-22 19:08:18 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:08:20 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:08:20 [32minfo[39m: Signature verified
+2023-12-22 19:12:23 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:12:25 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:12:25 [32minfo[39m: Signature verified
+2023-12-22 19:14:56 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:14:58 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:14:58 [32minfo[39m: Signature verified
+2023-12-22 19:18:56 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:18:56 [32minfo[39m: Authorization middleware: No access token or refresh token found in cookies
+2023-12-22 19:19:06 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:19:08 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:19:08 [32minfo[39m: Signature verified
+2023-12-22 19:19:11 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:19:11 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 19:19:11 [32minfo[39m: 1703250723214
+2023-12-22 19:19:11 [32minfo[39m: 1703254751267
+2023-12-22 19:19:11 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 19:19:11 [32minfo[39m: FILE UPLOADED
+2023-12-22 19:19:11 [32minfo[39m: File name: f071c7ed-96b8-4ce6-af27-602b7876851e.m4a
+2023-12-22 19:19:31 [32minfo[39m: No virus detected
+2023-12-22 19:19:31 [32minfo[39m: processing file1!!
+2023-12-22 19:20:00 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 19:20:00 [32minfo[39m: File uploaded successfully:
+2023-12-22 19:20:00 [32minfo[39m: Download link: http://localhost:4000/services/transcription/download?file=f071c7ed-96b8-4ce6-af27-602b7876851e&format=txt
+2023-12-22 19:20:03 [32minfo[39m: Email sent to khizarcs123@gmail.com
+2023-12-22 19:20:05 [32minfo[39m: Email appended to "Sent" folder.
+2023-12-22 19:20:27 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:20:27 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 19:20:27 [32minfo[39m: 1703254751268
+2023-12-22 19:20:27 [32minfo[39m: 1703254827617
+2023-12-22 19:20:27 [32minfo[39m: Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has exceeded usage count
+2023-12-22 19:20:41 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 19:20:52 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:20:52 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 19:20:52 [32minfo[39m: 1703254751268
+2023-12-22 19:20:52 [32minfo[39m: 1703254852734
+2023-12-22 19:20:52 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 19:20:52 [32minfo[39m: FILE UPLOADED
+2023-12-22 19:20:52 [32minfo[39m: File name: bfa14af9-b16a-4176-a2f1-44095d760dbe.mp3
+2023-12-22 19:21:19 [32minfo[39m: No virus detected
+2023-12-22 19:21:19 [32minfo[39m: processing file1!!
+2023-12-22 19:21:46 [32minfo[39m: C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 19:21:47 [32minfo[39m: File uploaded successfully:
+2023-12-22 19:21:47 [32minfo[39m: Download link: http://localhost:4000/services/transcription/download?file=bfa14af9-b16a-4176-a2f1-44095d760dbe&format=pdf
+2023-12-22 19:21:49 [32minfo[39m: Email sent to khizarcs123@gmail.com
+2023-12-22 19:21:51 [32minfo[39m: Email appended to "Sent" folder.
+2023-12-22 19:21:57 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 19:21:58 [32minfo[39m: File downloaded successfully:
+2023-12-22 22:33:25 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 22:36:14 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:36:22 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:36:23 [32minfo[39m: Signature verified
+2023-12-22 22:37:30 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:37:30 [32minfo[39m: Authorization middleware: JWT verified successfully, wallet address: 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a
+2023-12-22 22:37:30 [32minfo[39m: 1703254852737
+2023-12-22 22:37:30 [32minfo[39m: 1703266650280
+2023-12-22 22:37:30 [32minfo[39m: Passed through walletbalance middleware. Wallet 0x5aB673AccA34F4F05E2766a7d9F362AaF1aBcB6a has free uses left
+2023-12-22 22:37:30 [32minfo[39m: FILE UPLOADED
+2023-12-22 22:37:30 [32minfo[39m: File name: af0ab697-30fb-4563-8f70-4f9def3eeb8e.m4a
+2023-12-22 22:38:07 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 22:39:38 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:39:40 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:39:40 [32minfo[39m: Signature verified
+2023-12-22 22:40:02 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 22:40:06 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 22:40:16 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:40:18 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:40:18 [32minfo[39m: Signature verified
+2023-12-22 22:40:43 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 22:40:53 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:40:55 [32minfo[39m: Incoming request from IP: ::1 and User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-22 22:40:55 [32minfo[39m: Signature verified
+2023-12-22 22:41:14 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 22:41:58 [32minfo[39m: Server is running on port http://localhost:4000
+2023-12-22 22:42:14 [32minfo[39m: Server is running on port http://localhost:4000

@@ -1,0 +1,19 @@
+2023-12-22 04:11:51 [31merror[39m: 
+2023-12-22 04:13:17 [31merror[39m: 
+2023-12-22 04:16:22 [31merror[39m: Error processing file: File ..\..\Files\outputs\161255b0-29a6-4015-b136-5bbb1d88bc7a.txt.undefined not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:25:00 [31merror[39m: Error processing file: File 18102975-6f58-4eee-94a1-03af6ecd522a.m4a.undefined not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:28:48 [31merror[39m: Error processing file: File f901238d-e0fa-453c-bd37-9019f8e4711e.mp3.undefined not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 04:31:49 [31merror[39m: Error processing file: File 25266da7-11b4-44f0-a63b-db5347560234.m4a.txt not found in C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\Files\outputs
+2023-12-22 16:20:56 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244056881"
+2023-12-22 16:21:50 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244110847"
+2023-12-22 16:30:09 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244609935"
+2023-12-22 16:31:05 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244665587"
+2023-12-22 16:33:21 [31merror[39m: Error in walletBalanceChecker middleware: error: date/time field value out of range: "1703244801589"
+2023-12-22 17:30:48 [31merror[39m: uncaughtException: Cannot destructure property 'walletAddress' of 'req.Wallet' as it is undefined.
+TypeError: Cannot destructure property 'walletAddress' of 'req.Wallet' as it is undefined.
+    at processFile (file:///C:/Users/khiza/OneDrive/Desktop/VoxaLink_final_repo/server/source/controllers/fileController.js:21:11)
+    at Layer.handle [as handle_request] (C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\khiza\OneDrive\Desktop\VoxaLink_final_repo\server\node_modules\express\lib\router\route.js:144:13)
+    at virusScan (file:///C:/Users/khiza/OneDrive/Desktop/VoxaLink_final_repo/server/source/middlewares/virusScanMiddleware.js:61:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-22 17:44:00 [31merror[39m: Error sending email: Error: Invalid login: 535 5.7.8 Error: authentication failed: 

@@ -1,0 +1,11 @@
+torch
+transformers
+pydub
+librosa
+fpdf
+python-docx
+numpy
+requests
+fastapi
+pydantic
+uvicorn
